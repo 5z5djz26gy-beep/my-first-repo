@@ -1,1 +1,6 @@
-# My First Repo\n\nThis is my first GitHub repository.
+# My First Repo
+
+This is my first GitHub repository.
+
+## About
+Created by Stephen Jones.
